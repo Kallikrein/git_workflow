@@ -1,5 +1,4 @@
 test
 ===
 
-[link](/gittutorial.md#test "test")
-[link2](google.com)
+[back to the top](/README.md#test "test")
